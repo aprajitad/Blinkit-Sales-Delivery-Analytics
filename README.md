@@ -8,17 +8,6 @@ Interactive Power BI dashboard analyzing Blinkit sales and delivery performance 
 
 ---
 
-## 🖼️ Dashboard Preview
-
-<!-- Add a screenshot: take a screenshot of your Power BI dashboard, save it as
-     dashboard_preview.png in this repo, then uncomment the line below -->
-<!-- ![Dashboard Preview](dashboard_preview.png) -->
-
-<img width="1037" height="571" alt="dashboard_preview" src="https://github.com/user-attachments/assets/eb823581-a651-4669-bf5c-43d893439665" />
-
-
----
-
 ## 🎯 Objectives
 
 - Monitor overall sales performance and growth trends
