@@ -1,4 +1,4 @@
-<h1 align="center">🟡 Blinkit Sales & Delivery Analytics</h1>
+<h1 align="center">🛒 Blinkit Sales & Delivery Analytics</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
